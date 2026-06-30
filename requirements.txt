@@ -1,0 +1,7 @@
+opencv-python
+numpy
+gradio
+ultralytics
+torch
+torchvision
+huggingface_hub>=0.20.0
